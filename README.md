@@ -15,7 +15,9 @@ Gameplay Instructions
 Commits
 --------
 1. Initial Commit
-2. Added README
+1. Added README
+1. Added 3rd Person Content
+1. Prototyped patrolling AIs in Blueprint
 
 Planned Updates
 ---------------
