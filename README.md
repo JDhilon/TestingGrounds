@@ -18,6 +18,7 @@ Commits
 1. Added README
 1. Added 3rd Person Content
 1. Prototyped patrolling AIs in Blueprint
+1. Added PatrolRoute component, PatrollingThirdPersonCharacter class
 
 Planned Updates
 ---------------
