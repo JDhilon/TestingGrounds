@@ -21,6 +21,7 @@ Commits
 1. Added PatrolRoute component, PatrollingThirdPersonCharacter class
 1. Removed PatrollingThirdPersonCharacter, added Animation Starter Pack
 1. Add Blendspace and AimOffset for PatrollingGuard, expanded Behaviour Tree
+1. Moved Gun to it's own class for easy reuse
 
 Planned Updates
 ---------------
