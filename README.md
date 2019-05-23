@@ -1,3 +1,5 @@
+Due to an update to Unreal Engine, development on this project has been stopped and has been moved to a newer one running Unreal Engine 4.22
+
 Testing Grounds
 ====================
 A Hunger-Games inspired FPS with large outdoor terrains, Advanced AI, basic networking, pickups, skeletal meshes, checkpoints, and more
